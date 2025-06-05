@@ -1,4 +1,4 @@
-package com.nicoselomin.gestionLoyer.domaine.enums;
+package com.nicoselomin.domaine.enums;
 
 public enum EtatContrat {
     EN_COURS,
